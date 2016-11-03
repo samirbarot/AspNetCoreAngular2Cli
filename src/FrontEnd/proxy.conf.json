@@ -1,7 +1,0 @@
-﻿{
-  "/api": {
-    "target": "http://localhost:5000/", // Use this one if you are using command line to run application using "dotnet watch run" command
-    // "target": "http: //localhost:58721/", -- Use this one if you are running BackEnd from Visual Studio using F5
-    "secure": false
-  }
-}
